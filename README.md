@@ -81,6 +81,15 @@ A classe `App` cria um aluno com curso, disciplinas, professores e notas, calcul
 <aluno><ra>100</ra><nome>João</nome><curso><sigla>BCC</sigla>...</curso>...<notas><disciplina descricao="Tópicos Avançados"><nota>7</nota>...</disciplina>...</notas>...</aluno>
 ```
 
+## Uso de inteligência artificial
+
+Todo o código-fonte deste projeto foi escrito por mim, em 2023, sem o uso de inteligência artificial.
+
+Em 2026, a IA **Claude** (Anthropic) foi utilizada apenas para:
+
+- escrever este `README.md`;
+- remover do repositório arquivos desnecessários à arquitetura do projeto (saída de compilação em `target/` e configurações de IDE em `.idea/`, `.settings/`, `.classpath` e `.project`) e criar o `.gitignore` correspondente.
+
 ## Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
